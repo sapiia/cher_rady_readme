@@ -113,8 +113,9 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## 👥 Contributors
+
   <a href="https://github.com/radytrainer/demo-readme-file?tab=readme-ov-file#-installation">
-    <img src="https://i.pinimg.com/736x/fa/51/6c/fa516cbb8f2a2d0226eea5359322f631.jpg" width="50" height="50" style="border-radius: 50%;" alt="User1"/>
+    <img src="image-1.png" width="50" height="50" style="border-radius: 50%;" alt="User1"/>
   </a>
 
 ## 📄 License
